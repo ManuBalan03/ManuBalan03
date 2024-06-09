@@ -73,11 +73,7 @@
 
 <ul>
 
-<li>
-<a href="www.linkedin.com/in/manuel-balan-euan-8325072b5" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Manyuel Balan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/manuel-balan-euan-8325072b5)
 
 <br>
 
